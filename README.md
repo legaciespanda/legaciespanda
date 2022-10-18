@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ernest Obot</h1>
-<h3 align="center">A passionate Blockchain|Web3|.NET| Software Developer from Nigeria</h3>
+<h3 align="center">A passionate Blockchain|Web3|Java - Spring Boot | Software Developer from Nigeria</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=legaciespanda" alt="legaciespanda" /></a> </p>
 
