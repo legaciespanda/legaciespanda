@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Blockchain**
 
-- 📫 How to reach me **ernest@blockchaintech.com.ng**
+- 📫 How to reach me **ernestobot.dev@gmail.com**
 
 - ⚡ Fun fact **Love football, funny**
 
